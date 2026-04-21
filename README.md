@@ -1,4 +1,4 @@
-# linkedin-trend-finder
+# LinkedIn Trend Finder
 
 A Claude Code skill that discovers trending public LinkedIn posts for a given company, theme, or audience, and returns a ranked structured list that downstream agents can use to repost, comment on, or author lookalike content.
 
