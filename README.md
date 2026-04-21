@@ -40,7 +40,10 @@ Written to `output/<YYYY-MM-DD-HHMM>/` in the current working directory:
 
 The inline response gives the output path and the top 3 posts.
 
+See [example.md](example.md) for an end-to-end walkthrough — a real brief, the parsed fields, the queries fired, and excerpts of every output file.
+
 ## Files
 
 - [SKILL.md](SKILL.md) — skill entry point and workflow.
 - [reference.md](reference.md) — query templates, hook taxonomy, extraction prompt, output schema.
+- [example.md](example.md) — worked example of a full run, with output snippets and tips for writing better briefs.
